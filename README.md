@@ -103,7 +103,7 @@ Find out more about me & feel free to connect with me here:
 <!--   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true" />
 </p> -->
 
-![Vikram's GitHub activity graph]((https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true%22)-->
+![Vikram's GitHub activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true%22)
 
 ---
 
