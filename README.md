@@ -1,14 +1,12 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://asmitbm.me/"><img src="/src/banner.png"></a>
+* 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
-
-* 🧑🏻‍💻 Product designer & an open-source enthusiast. 
+* 🧑🏻‍💻 Software Engineer with 3 years of experience working for companies like Expedia Group, and Paytm. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Learning [Next.js](https://nextjs.org/).
+* 💻 Seeking Fall 2024 internships
 
 Find out more about me & feel free to connect with me here:
 
