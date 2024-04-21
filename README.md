@@ -10,26 +10,11 @@
 
 Find out more about me & feel free to connect with me here:
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/asmitbm/">
+<p align="left">
+	<a href="https://www.linkedin.com/in/vikramsinghbedi">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/asmitbm">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://dev.to/asmitbm">
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-        <a href="https://asmitbm.me/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-	<a href="https://www.behance.net/asmitbm">
-		<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
-	</a>
-	<a href="https://asmit.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
-	</a>
-        <a href="mailto:asmitbm2952002@gmail.com">
+        <a href="bediv@uwindsor.ca">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -40,13 +25,13 @@ Find out more about me & feel free to connect with me here:
 
 ### 🚀 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🧩 Libraries & Framework
 
@@ -85,27 +70,18 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asmitbm&show_icons=true&hide_border=true\&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitbm&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhVikram97&show_icons=true&hide_border=true\&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhVikram97&hide_border=true" />
 </p>
 
-## ✍🏻 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [GUADEC 2023 - My first conference as an organizer](https://dev.to/asmitbm/guadec-2023-my-first-conference-as-an-organizer-3a5e)
-- [Google Summer of Code 2023 with conda-forge](https://dev.to/asmitbm/google-summer-of-code-2023-with-conda-forge-12c4)
-- [From Mentee to Mentor: My Journey through LFX Mentorship](https://dev.to/asmitbm/from-mentee-to-mentor-my-journey-through-lfx-mentorship-bnk)
-- [Google Season of Docs&#39;22 Project Report](https://dev.to/asmitbm/google-season-of-docs22-project-report-3f1a)
-- [Google Season of Docs&#39;22 with Weaviate!](https://dev.to/asmitbm/google-season-of-docs22-with-weaviate-4m0e)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitbm&layout=compact&hide_border=true" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true" />
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asmitbm&hide_border=true&theme=redical)-->
+<!--![Vikram's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=singhVikram97&hide_border=true&theme=redical)-->
 
 ---
 
