@@ -1,4 +1,5 @@
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+<h1> Hello, I'm Vikram Singh Bedi, great to see you here!
+  <a href="https://taggo.one/clcmo"><img src=""  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
