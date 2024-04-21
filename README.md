@@ -100,8 +100,8 @@ Find out more about me & feel free to connect with me here:
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true" />
-</p>
+<!--   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true" />
+</p> -->
 
 <!--![Vikram's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=singhVikram97&hide_border=true&theme=redical)-->
 
