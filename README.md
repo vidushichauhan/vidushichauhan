@@ -1,5 +1,5 @@
 <h1> Hello, I'm Vikram Singh Bedi, great to see you here!
-  <a href="https://taggo.one/clcmo"><img src=""  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+  <a href="https://taggo.one/clcmo"><img src="https://github.com/SinghVikram97/singhVikram97/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
