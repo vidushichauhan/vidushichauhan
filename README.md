@@ -1,4 +1,4 @@
-<h1> Hello, I'm Rohan Sethi, great to see you here!
+<h1> Hello, I'm Vidushi Chauhan, great to see you here!
  <img src="https://github.com/SinghVikram97/singhVikram97/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
@@ -12,10 +12,10 @@
 Find out more about me & feel free to connect with me here:
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/rohan-sethi-a27107178/?trk=opento_sprofile_details">
+	<a href="https://www.linkedin.com/in/vidushi-chauhan-1615ab184/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="sethi83@uwindsor.ca">
+        <a href="chauha5a@uwindsor.ca">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -92,18 +92,18 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansethi1999430&show_icons=true&hide_border=true%5C&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansethi1999430&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vidushichauhan&show_icons=true&hide_border=true%5C&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vidushichauhan&hide_border=true" />
 </p>
 
 
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhVikram97&layout=compact&hide_border=true" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidushichauhan&layout=compact&hide_border=true" />
 </p>
 
-<!--![Vikram's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=singhVikram97&hide_border=true&theme=redical)-->
+
 
 <p align="center">
    <img src="https://github.com/asmitbm/asmitbm/blob/output/github-contribution-grid-snake.svg" alt="snake">
