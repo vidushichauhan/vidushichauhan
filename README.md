@@ -92,8 +92,8 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhVikram97&show_icons=true&hide_border=true\&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhVikram97&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansethi199430&show_icons=true&hide_border=true\&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansethi199430&hide_border=true" />
 </p>
 
 
