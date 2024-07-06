@@ -93,7 +93,7 @@ Find out more about me & feel free to connect with me here:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohansethi1999430&show_icons=true&hide_border=true%5C&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansethi199430&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansethi1999430&hide_border=true" />
 </p>
 
 
