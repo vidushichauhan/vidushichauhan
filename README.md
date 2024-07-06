@@ -1,21 +1,21 @@
-<h1> Hello, I'm Vikram Singh Bedi, great to see you here!
+<h1> Hello, I'm Rohan Sethi, great to see you here!
  <img src="https://github.com/SinghVikram97/singhVikram97/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
-* 🧑🏻‍💻 Software Engineer with 3 years of experience working for companies like Expedia Group, and Paytm. 
+* 🧑🏻‍💻 Software Engineer with 2.8 years of experience working for companies like Dell Technologies and Cognizant. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Seeking Fall 2024 internships
+* 💻 Seeking Winter 2025 internships
 
 Find out more about me & feel free to connect with me here:
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/vikramsinghbedi">
+	<a href="https://www.linkedin.com/in/rohan-sethi-a27107178/?trk=opento_sprofile_details">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="bediv@uwindsor.ca">
+        <a href="sethi83@uwindsor.ca">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
