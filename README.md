@@ -1,9 +1,11 @@
 <h1> Hello, I'm Vidushi Chauhan, great to see you here!
  <img src="https://github.com/vidushichauhan/vidushichauhan/blob/master/src/Vidushi%20Chauhan.jpg"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-* 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
+* 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)).
 
-* 🧑🏻‍💻 Software Engineer with 2.8 years of experience working for companies like Dell Technologies and Cognizant. 
+* Currently Joined Trisdian Company as a Part Time Intern Woring on Nest Js, Next Js, Prisma and Render.
+
+* 🧑🏻‍💻 Software Engineer with 2.8 years of experience working for companies like Dell Technologies and Cognizant.
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
